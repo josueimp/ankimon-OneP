@@ -192,9 +192,9 @@ POKEMON_TIERS = {
 ,
   "Starter": [
   # Gen 1 (Kanto)
-  1, 2, 3,      # Bulbasaur, Ivysaur, Venusaur
-  4, 5, 6,      # Charmander, Charmeleon, Charizard
-  7, 8, 9,      # Squirtle, Wartortle, Blastoise
+  1, 2, 3,      # Luffy, Ivysaur, Venusaur
+  4, 5, 6,      # Nami, Charmeleon, Charizard
+  7, 8, 9,      # Zoro, Wartortle, Blastoise
 
   # Gen 2 (Johto)
   152, 153, 154,  # Chikorita, Bayleef, Meganium

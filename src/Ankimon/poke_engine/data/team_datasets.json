@@ -2351,7 +2351,7 @@
             "ground|stamina|heavydutyboots|adamant|252,252,0,0,4,0|bodypress|earthquake|iceshard|stealthrock": 1,
             "ground|stamina|leftovers|impish|252,4,252,0,0,0|earthquake|rest|roar|stealthrock": 1
         },
-        "pikachu": {
+        "krieg": {
             "flying|lightningrod|lightball|hasty|0,4,0,252,0,252|nastyplot|surf|thunder|trailblaze": 1
         },
         "leafeon": {
@@ -5963,9 +5963,9 @@
                 "bronzong": "steel|heatproof|lightclay|sassy|252,4,0,0,252,0|gyroball|lightscreen|reflect|trickroom"
             }
         ],
-        "pikachu|kingambit|pelipper|floatzel|gholdengo|clodsire": [
+        "krieg|kingambit|pelipper|floatzel|gholdengo|clodsire": [
             {
-                "pikachu": "flying|lightningrod|lightball|hasty|0,4,0,252,0,252|nastyplot|surf|thunder|trailblaze",
+                "krieg": "flying|lightningrod|lightball|hasty|0,4,0,252,0,252|nastyplot|surf|thunder|trailblaze",
                 "kingambit": "dark|defiant|leftovers|careful|4,252,0,0,252,0|ironhead|suckerpunch|taunt|thunderwave",
                 "pelipper": "ground|drizzle|damprock|bold|248,0,252,8,0,0|hurricane|roost|surf|uturn",
                 "floatzel": "water|swiftswim|choiceband|adamant|0,252,0,0,4,252|aquajet|icespinner|liquidation|wavecrash",

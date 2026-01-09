@@ -1,7 +1,7 @@
 {
-    "bulbasaur": {
+    "luffy": {
         "num": 1,
-        "name": "bulbasaur",
+        "name": "luffy",
         "types": [
             "grass",
             "poison"
@@ -59,7 +59,7 @@
         "heightm": 1,
         "weightkg": 13,
         "color": "Green",
-        "prevo": "Bulbasaur",
+        "prevo": "Luffy",
         "evoLevel": 16,
         "evos": [
             "Venusaur"
@@ -177,9 +177,9 @@
         ],
         "changesFrom": "Venusaur"
     },
-    "charmander": {
+    "nami": {
         "num": 4,
-        "name": "charmander",
+        "name": "nami",
         "types": [
             "fire"
         ],
@@ -235,7 +235,7 @@
         "heightm": 1.1,
         "weightkg": 19,
         "color": "Red",
-        "prevo": "Charmander",
+        "prevo": "Nami",
         "evoLevel": 16,
         "evos": [
             "Charizard"
@@ -388,9 +388,9 @@
         ],
         "changesFrom": "Charizard"
     },
-    "squirtle": {
+    "zoro": {
         "num": 7,
-        "name": "squirtle",
+        "name": "zoro",
         "types": [
             "water"
         ],
@@ -446,7 +446,7 @@
         "heightm": 1,
         "weightkg": 22.5,
         "color": "Blue",
-        "prevo": "Squirtle",
+        "prevo": "Zoro",
         "evoLevel": 16,
         "evos": [
             "Blastoise"
@@ -561,9 +561,9 @@
         ],
         "changesFrom": "Blastoise"
     },
-    "caterpie": {
+    "koby": {
         "num": 10,
-        "name": "caterpie",
+        "name": "koby",
         "types": [
             "bug"
         ],
@@ -609,7 +609,7 @@
         "heightm": 0.7,
         "weightkg": 9.9,
         "color": "Green",
-        "prevo": "Caterpie",
+        "prevo": "Koby",
         "evoLevel": 7,
         "evos": [
             "Butterfree"
@@ -676,9 +676,9 @@
         ],
         "changesFrom": "Butterfree"
     },
-    "weedle": {
+    "usopp": {
         "num": 13,
-        "name": "weedle",
+        "name": "usopp",
         "types": [
             "bug",
             "poison"
@@ -726,7 +726,7 @@
         "heightm": 0.6,
         "weightkg": 10,
         "color": "Yellow",
-        "prevo": "Weedle",
+        "prevo": "Usopp",
         "evoLevel": 7,
         "evos": [
             "Beedrill"
@@ -798,9 +798,9 @@
         ],
         "requiredItem": "Beedrillite"
     },
-    "pidgey": {
+    "sanji": {
         "num": 16,
-        "name": "pidgey",
+        "name": "sanji",
         "types": [
             "normal",
             "flying"
@@ -851,7 +851,7 @@
         "heightm": 1.1,
         "weightkg": 30,
         "color": "Brown",
-        "prevo": "Pidgey",
+        "prevo": "Sanji",
         "evoLevel": 18,
         "evos": [
             "Pidgeot"
@@ -924,9 +924,9 @@
         ],
         "requiredItem": "Pidgeotite"
     },
-    "rattata": {
+    "smoker": {
         "num": 19,
-        "name": "rattata",
+        "name": "smoker",
         "types": [
             "normal"
         ],
@@ -953,17 +953,17 @@
             "Field"
         ],
         "otherFormes": [
-            "Rattata-Alola"
+            "Smoker-Alola"
         ],
         "formeOrder": [
-            "Rattata",
-            "Rattata-Alola"
+            "Smoker",
+            "Smoker-Alola"
         ]
     },
     "rattataalola": {
         "num": 19,
-        "name": "rattata-alola",
-        "baseSpecies": "Rattata",
+        "name": "smoker-alola",
+        "baseSpecies": "Smoker",
         "forme": "Alola",
         "types": [
             "dark",
@@ -1014,7 +1014,7 @@
         "heightm": 0.7,
         "weightkg": 18.5,
         "color": "Brown",
-        "prevo": "Rattata",
+        "prevo": "Smoker",
         "evoLevel": 20,
         "eggGroups": [
             "Field"
@@ -1054,7 +1054,7 @@
         "heightm": 0.7,
         "weightkg": 25.5,
         "color": "Black",
-        "prevo": "Rattata-Alola",
+        "prevo": "Smoker-Alola",
         "evoLevel": 20,
         "evoCondition": "at night",
         "eggGroups": [
@@ -1088,9 +1088,9 @@
             "Field"
         ]
     },
-    "spearow": {
+    "arlong": {
         "num": 21,
-        "name": "spearow",
+        "name": "arlong",
         "types": [
             "normal",
             "flying"
@@ -1139,15 +1139,15 @@
         "heightm": 1.2,
         "weightkg": 38,
         "color": "Brown",
-        "prevo": "Spearow",
+        "prevo": "Arlong",
         "evoLevel": 20,
         "eggGroups": [
             "Flying"
         ]
     },
-    "ekans": {
+    "tashigi": {
         "num": 23,
-        "name": "ekans",
+        "name": "tashigi",
         "types": [
             "poison"
         ],
@@ -1197,16 +1197,16 @@
         "heightm": 3.5,
         "weightkg": 65,
         "color": "Purple",
-        "prevo": "Ekans",
+        "prevo": "Tashigi",
         "evoLevel": 22,
         "eggGroups": [
             "Field",
             "Dragon"
         ]
     },
-    "pikachu": {
+    "krieg": {
         "num": 25,
-        "name": "pikachu",
+        "name": "krieg",
         "types": [
             "electric"
         ],
@@ -1236,46 +1236,46 @@
             "Fairy"
         ],
         "otherFormes": [
-            "Pikachu-Cosplay",
-            "Pikachu-Rock-Star",
-            "Pikachu-Belle",
-            "Pikachu-Pop-Star",
-            "Pikachu-PhD",
-            "Pikachu-Libre",
-            "Pikachu-Original",
-            "Pikachu-Hoenn",
-            "Pikachu-Sinnoh",
-            "Pikachu-Unova",
-            "Pikachu-Kalos",
-            "Pikachu-Alola",
-            "Pikachu-Partner",
-            "Pikachu-Starter",
-            "Pikachu-World"
+            "Krieg-Cosplay",
+            "Krieg-Rock-Star",
+            "Krieg-Belle",
+            "Krieg-Pop-Star",
+            "Krieg-PhD",
+            "Krieg-Libre",
+            "Krieg-Original",
+            "Krieg-Hoenn",
+            "Krieg-Sinnoh",
+            "Krieg-Unova",
+            "Krieg-Kalos",
+            "Krieg-Alola",
+            "Krieg-Partner",
+            "Krieg-Starter",
+            "Krieg-World"
         ],
         "formeOrder": [
-            "Pikachu",
-            "Pikachu-Original",
-            "Pikachu-Hoenn",
-            "Pikachu-Sinnoh",
-            "Pikachu-Unova",
-            "Pikachu-Kalos",
-            "Pikachu-Alola",
-            "Pikachu-Partner",
-            "Pikachu-Starter",
-            "Pikachu-World",
-            "Pikachu-Rock-Star",
-            "Pikachu-Belle",
-            "Pikachu-Pop-Star",
-            "Pikachu-PhD",
-            "Pikachu-Libre",
-            "Pikachu-Cosplay"
+            "Krieg",
+            "Krieg-Original",
+            "Krieg-Hoenn",
+            "Krieg-Sinnoh",
+            "Krieg-Unova",
+            "Krieg-Kalos",
+            "Krieg-Alola",
+            "Krieg-Partner",
+            "Krieg-Starter",
+            "Krieg-World",
+            "Krieg-Rock-Star",
+            "Krieg-Belle",
+            "Krieg-Pop-Star",
+            "Krieg-PhD",
+            "Krieg-Libre",
+            "Krieg-Cosplay"
         ],
         "canGigantamax": "G-Max Volt Crash"
     },
     "pikachucosplay": {
         "num": 25,
-        "name": "pikachu-cosplay",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-cosplay",
+        "baseSpecies": "Krieg",
         "forme": "Cosplay",
         "types": [
             "electric"
@@ -1302,8 +1302,8 @@
     },
     "pikachurockstar": {
         "num": 25,
-        "name": "pikachu-rock-star",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-rock-star",
+        "baseSpecies": "Krieg",
         "forme": "Rock-Star",
         "types": [
             "electric"
@@ -1326,13 +1326,13 @@
         "eggGroups": [
             "Undiscovered"
         ],
-        "changesFrom": "Pikachu-Cosplay",
+        "changesFrom": "Krieg-Cosplay",
         "gen": 6
     },
     "pikachubelle": {
         "num": 25,
-        "name": "pikachu-belle",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-belle",
+        "baseSpecies": "Krieg",
         "forme": "Belle",
         "types": [
             "electric"
@@ -1355,13 +1355,13 @@
         "eggGroups": [
             "Undiscovered"
         ],
-        "changesFrom": "Pikachu-Cosplay",
+        "changesFrom": "Krieg-Cosplay",
         "gen": 6
     },
     "pikachupopstar": {
         "num": 25,
-        "name": "pikachu-pop-star",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-pop-star",
+        "baseSpecies": "Krieg",
         "forme": "Pop-Star",
         "types": [
             "electric"
@@ -1384,13 +1384,13 @@
         "eggGroups": [
             "Undiscovered"
         ],
-        "changesFrom": "Pikachu-Cosplay",
+        "changesFrom": "Krieg-Cosplay",
         "gen": 6
     },
     "pikachuphd": {
         "num": 25,
-        "name": "pikachu-phd",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-phd",
+        "baseSpecies": "Krieg",
         "forme": "PhD",
         "types": [
             "electric"
@@ -1413,13 +1413,13 @@
         "eggGroups": [
             "Undiscovered"
         ],
-        "changesFrom": "Pikachu-Cosplay",
+        "changesFrom": "Krieg-Cosplay",
         "gen": 6
     },
     "pikachulibre": {
         "num": 25,
-        "name": "pikachu-libre",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-libre",
+        "baseSpecies": "Krieg",
         "forme": "Libre",
         "types": [
             "electric"
@@ -1442,13 +1442,13 @@
         "eggGroups": [
             "Undiscovered"
         ],
-        "changesFrom": "Pikachu-Cosplay",
+        "changesFrom": "Krieg-Cosplay",
         "gen": 6
     },
     "pikachuoriginal": {
         "num": 25,
-        "name": "pikachu-original",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-original",
+        "baseSpecies": "Krieg",
         "forme": "Original",
         "types": [
             "electric"
@@ -1476,8 +1476,8 @@
     },
     "pikachuhoenn": {
         "num": 25,
-        "name": "pikachu-hoenn",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-hoenn",
+        "baseSpecies": "Krieg",
         "forme": "Hoenn",
         "types": [
             "electric"
@@ -1505,8 +1505,8 @@
     },
     "pikachusinnoh": {
         "num": 25,
-        "name": "pikachu-sinnoh",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-sinnoh",
+        "baseSpecies": "Krieg",
         "forme": "Sinnoh",
         "types": [
             "electric"
@@ -1534,8 +1534,8 @@
     },
     "pikachuunova": {
         "num": 25,
-        "name": "pikachu-unova",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-unova",
+        "baseSpecies": "Krieg",
         "forme": "Unova",
         "types": [
             "electric"
@@ -1563,8 +1563,8 @@
     },
     "pikachukalos": {
         "num": 25,
-        "name": "pikachu-kalos",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-kalos",
+        "baseSpecies": "Krieg",
         "forme": "Kalos",
         "types": [
             "electric"
@@ -1592,8 +1592,8 @@
     },
     "pikachualola": {
         "num": 25,
-        "name": "pikachu-alola",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-alola",
+        "baseSpecies": "Krieg",
         "forme": "Alola",
         "types": [
             "electric"
@@ -1621,8 +1621,8 @@
     },
     "pikachupartner": {
         "num": 25,
-        "name": "pikachu-partner",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-partner",
+        "baseSpecies": "Krieg",
         "forme": "Partner",
         "types": [
             "electric"
@@ -1650,8 +1650,8 @@
     },
     "pikachustarter": {
         "num": 25,
-        "name": "pikachu-starter",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-starter",
+        "baseSpecies": "Krieg",
         "forme": "Starter",
         "types": [
             "electric"
@@ -1677,8 +1677,8 @@
     },
     "pikachugmax": {
         "num": 25,
-        "name": "pikachu-gmax",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-gmax",
+        "baseSpecies": "Krieg",
         "forme": "Gmax",
         "types": [
             "electric"
@@ -1702,12 +1702,12 @@
             "Field",
             "Fairy"
         ],
-        "changesFrom": "Pikachu"
+        "changesFrom": "Krieg"
     },
     "pikachuworld": {
         "num": 25,
-        "name": "pikachu-world",
-        "baseSpecies": "Pikachu",
+        "name": "krieg-world",
+        "baseSpecies": "Krieg",
         "forme": "World",
         "types": [
             "electric"
@@ -1754,7 +1754,7 @@
         "heightm": 0.8,
         "weightkg": 30,
         "color": "Yellow",
-        "prevo": "Pikachu",
+        "prevo": "Krieg",
         "evoType": "useItem",
         "evoItem": "Thunder Stone",
         "eggGroups": [
@@ -1792,7 +1792,7 @@
         "heightm": 0.7,
         "weightkg": 21,
         "color": "Brown",
-        "prevo": "Pikachu",
+        "prevo": "Krieg",
         "evoType": "useItem",
         "evoItem": "Thunder Stone",
         "evoRegion": "Alola",
@@ -1801,9 +1801,9 @@
             "Fairy"
         ]
     },
-    "sandshrew": {
+    "kuro": {
         "num": 27,
-        "name": "sandshrew",
+        "name": "kuro",
         "types": [
             "ground"
         ],
@@ -1829,17 +1829,17 @@
             "Field"
         ],
         "otherFormes": [
-            "Sandshrew-Alola"
+            "Kuro-Alola"
         ],
         "formeOrder": [
-            "Sandshrew",
-            "Sandshrew-Alola"
+            "Kuro",
+            "Kuro-Alola"
         ]
     },
     "sandshrewalola": {
         "num": 27,
-        "name": "sandshrew-alola",
-        "baseSpecies": "Sandshrew",
+        "name": "kuro-alola",
+        "baseSpecies": "Kuro",
         "forme": "Alola",
         "types": [
             "ice",
@@ -1888,7 +1888,7 @@
         "heightm": 1,
         "weightkg": 29.5,
         "color": "Yellow",
-        "prevo": "Sandshrew",
+        "prevo": "Kuro",
         "evoLevel": 22,
         "eggGroups": [
             "Field"
@@ -1925,7 +1925,7 @@
         "heightm": 1.2,
         "weightkg": 55,
         "color": "Blue",
-        "prevo": "Sandshrew-Alola",
+        "prevo": "Kuro-Alola",
         "evoType": "useItem",
         "evoItem": "Ice Stone",
         "eggGroups": [
@@ -2190,9 +2190,9 @@
             "Fairy"
         ]
     },
-    "vulpix": {
+    "test1010": {
         "num": 37,
-        "name": "vulpix",
+        "name": "test1010",
         "types": [
             "fire"
         ],
@@ -2222,17 +2222,17 @@
             "Field"
         ],
         "otherFormes": [
-            "Vulpix-Alola"
+            "Test1010-Alola"
         ],
         "formeOrder": [
-            "Vulpix",
-            "Vulpix-Alola"
+            "Test1010",
+            "Test1010-Alola"
         ]
     },
     "vulpixalola": {
         "num": 37,
-        "name": "vulpix-alola",
-        "baseSpecies": "Vulpix",
+        "name": "test1010-alola",
+        "baseSpecies": "Test1010",
         "forme": "Alola",
         "types": [
             "ice"
@@ -2288,7 +2288,7 @@
         "heightm": 1.1,
         "weightkg": 19.9,
         "color": "Yellow",
-        "prevo": "Vulpix",
+        "prevo": "Test1010",
         "evoType": "useItem",
         "evoItem": "Fire Stone",
         "eggGroups": [
@@ -2330,7 +2330,7 @@
         "heightm": 1.1,
         "weightkg": 19.9,
         "color": "Blue",
-        "prevo": "Vulpix-Alola",
+        "prevo": "Test1010-Alola",
         "evoType": "useItem",
         "evoItem": "Ice Stone",
         "eggGroups": [
@@ -3640,9 +3640,9 @@
         ],
         "changesFrom": "Machamp"
     },
-    "bellsprout": {
+    "bellemere": {
         "num": 69,
-        "name": "bellsprout",
+        "name": "bellemere",
         "types": [
             "grass",
             "poison"
@@ -3691,7 +3691,7 @@
         "heightm": 1,
         "weightkg": 6.4,
         "color": "Green",
-        "prevo": "Bellsprout",
+        "prevo": "Bellemere",
         "evoLevel": 21,
         "evos": [
             "Victreebel"
@@ -4686,9 +4686,9 @@
             "Amorphous"
         ]
     },
-    "shellder": {
+    "chouchou": {
         "num": 90,
-        "name": "shellder",
+        "name": "chouchou",
         "types": [
             "water"
         ],
@@ -4738,7 +4738,7 @@
         "heightm": 1.5,
         "weightkg": 132.5,
         "color": "Purple",
-        "prevo": "Shellder",
+        "prevo": "Chouchou",
         "evoType": "useItem",
         "evoItem": "Water Stone",
         "eggGroups": [
@@ -4894,9 +4894,9 @@
         ],
         "changesFrom": "Gengar"
     },
-    "onix": {
+    "richie": {
         "num": 95,
-        "name": "onix",
+        "name": "richie",
         "types": [
             "rock",
             "ground"
@@ -5068,9 +5068,9 @@
         ],
         "changesFrom": "Kingler"
     },
-    "voltorb": {
+    "helmeppo": {
         "num": 100,
-        "name": "voltorb",
+        "name": "helmeppo",
         "types": [
             "electric"
         ],
@@ -5098,17 +5098,17 @@
             "Mineral"
         ],
         "otherFormes": [
-            "Voltorb-Hisui"
+            "Helmeppo-Hisui"
         ],
         "formeOrder": [
-            "Voltorb",
-            "Voltorb-Hisui"
+            "Helmeppo",
+            "Helmeppo-Hisui"
         ]
     },
     "voltorbhisui": {
         "num": 100,
-        "name": "voltorb-hisui",
-        "baseSpecies": "Voltorb",
+        "name": "helmeppo-hisui",
+        "baseSpecies": "Helmeppo",
         "forme": "Hisui",
         "types": [
             "electric",
@@ -5161,7 +5161,7 @@
         "heightm": 1.2,
         "weightkg": 66.6,
         "color": "Red",
-        "prevo": "Voltorb",
+        "prevo": "Helmeppo",
         "evoLevel": 30,
         "eggGroups": [
             "Mineral"
@@ -5200,7 +5200,7 @@
         "heightm": 1.2,
         "weightkg": 71,
         "color": "Red",
-        "prevo": "Voltorb-Hisui",
+        "prevo": "Helmeppo-Hisui",
         "evoType": "useItem",
         "evoItem": "Leaf Stone",
         "eggGroups": [
@@ -5618,9 +5618,9 @@
             "Amorphous"
         ]
     },
-    "rhyhorn": {
+    "alvida": {
         "num": 111,
-        "name": "rhyhorn",
+        "name": "alvida",
         "types": [
             "ground",
             "rock"
@@ -5672,7 +5672,7 @@
         "heightm": 1.9,
         "weightkg": 120,
         "color": "Gray",
-        "prevo": "Rhyhorn",
+        "prevo": "Alvida",
         "evoLevel": 42,
         "evos": [
             "Rhyperior"
@@ -8163,7 +8163,7 @@
         "weightkg": 2,
         "color": "Yellow",
         "evos": [
-            "Pikachu"
+            "Krieg"
         ],
         "eggGroups": [
             "Undiscovered"
@@ -9464,7 +9464,7 @@
         "heightm": 9.2,
         "weightkg": 400,
         "color": "Gray",
-        "prevo": "Onix",
+        "prevo": "Richie",
         "evoType": "trade",
         "evoItem": "Metal Coat",
         "eggGroups": [

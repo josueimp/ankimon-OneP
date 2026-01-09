@@ -217,7 +217,7 @@ def griseousorb(attacking_move, attacking_pokemon, defending_pokemon):
 
 
 def lightball(attacking_move, attacking_pokemon, defending_pokemon):
-    if attacking_pokemon.id == 'pikachu':
+    if attacking_pokemon.id == 'krieg':
         attacking_move = attacking_move.copy()
         attacking_move[constants.BASE_POWER] *= 2
     return attacking_move

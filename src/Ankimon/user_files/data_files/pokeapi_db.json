@@ -1,6 +1,6 @@
 [
   {
-    "name": "bulbasaur",
+    "name": "luffy",
     "id": 1,
     "effort_values": {
       "hp": 0,
@@ -42,7 +42,7 @@
     "growth_rate": "medium-slow"
   },
   {
-    "name": "charmander",
+    "name": "nami",
     "id": 4,
     "effort_values": {
       "hp": 0,
@@ -84,7 +84,7 @@
     "growth_rate": "medium-slow"
   },
   {
-    "name": "squirtle",
+    "name": "zoro",
     "id": 7,
     "effort_values": {
       "hp": 0,
@@ -126,7 +126,7 @@
     "growth_rate": "medium-slow"
   },
   {
-    "name": "caterpie",
+    "name": "koby",
     "id": 10,
     "effort_values": {
       "hp": 1,
@@ -168,7 +168,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "weedle",
+    "name": "usopp",
     "id": 13,
     "effort_values": {
       "hp": 0,
@@ -210,7 +210,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "pidgey",
+    "name": "sanji",
     "id": 16,
     "effort_values": {
       "hp": 0,
@@ -252,7 +252,7 @@
     "growth_rate": "medium-slow"
   },
   {
-    "name": "rattata",
+    "name": "smoker",
     "id": 19,
     "effort_values": {
       "hp": 0,
@@ -280,7 +280,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "spearow",
+    "name": "arlong",
     "id": 21,
     "effort_values": {
       "hp": 0,
@@ -308,7 +308,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "ekans",
+    "name": "tashigi",
     "id": 23,
     "effort_values": {
       "hp": 0,
@@ -336,7 +336,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "pikachu",
+    "name": "krieg",
     "id": 25,
     "effort_values": {
       "hp": 0,
@@ -364,7 +364,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "sandshrew",
+    "name": "kuro",
     "id": 27,
     "effort_values": {
       "hp": 0,
@@ -504,7 +504,7 @@
     "growth_rate": "fast"
   },
   {
-    "name": "vulpix",
+    "name": "test1010",
     "id": 37,
     "effort_values": {
       "hp": 0,
@@ -952,7 +952,7 @@
     "growth_rate": "medium-slow"
   },
   {
-    "name": "bellsprout",
+    "name": "bellemere",
     "id": 69,
     "effort_values": {
       "hp": 0,
@@ -1246,7 +1246,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "shellder",
+    "name": "chouchou",
     "id": 90,
     "effort_values": {
       "hp": 0,
@@ -1316,7 +1316,7 @@
     "growth_rate": "medium-slow"
   },
   {
-    "name": "onix",
+    "name": "richie",
     "id": 95,
     "effort_values": {
       "hp": 0,
@@ -1386,7 +1386,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "voltorb",
+    "name": "helmeppo",
     "id": 100,
     "effort_values": {
       "hp": 0,
@@ -1540,7 +1540,7 @@
     "growth_rate": "medium"
   },
   {
-    "name": "rhyhorn",
+    "name": "alvida",
     "id": 111,
     "effort_values": {
       "hp": 0,

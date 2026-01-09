@@ -4,7 +4,6 @@ import requests
 import time
 import hashlib # Point 4: Add import for hashlib
 from pathlib import Path
-from typing import Optional
 
 from ..resources import user_path
 from ..gui_entities import AgreementDialog
@@ -56,7 +55,7 @@ class DownloadThread(QThread):
                     self.status_signal.emit(f"Error cleaning up {path.name}: {e}")
 
     # Point 1: Add method _fetch_expected_hash(self)
-    def _fetch_expected_hash(self) -> Optional[str]:
+    def _fetch_expected_hash(self) -> str | None:
         """Fetches the expected SHA256 hash from GitHub Releases API."""
         api_url = "https://api.github.com/repos/Unlucky-Life/ankimon/releases/latest"
         try:

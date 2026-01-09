@@ -9873,9 +9873,9 @@ item_id,local_language_id,name
 1058,4,妙蛙種子的糖果
 1058,5,Bonbon Bulbizarre
 1058,6,Bisasam-Bonbon
-1058,7,Caramelo Bulbasaur
-1058,8,Caramella Bulbasaur
-1058,9,Bulbasaur Candy
+1058,7,Caramelo Luffy
+1058,8,Caramella Luffy
+1058,9,Luffy Candy
 1058,11,フシギダネのアメ
 1058,12,妙蛙种子的糖果
 1059,1,ヒトカゲのアメ
@@ -9883,9 +9883,9 @@ item_id,local_language_id,name
 1059,4,小火龍的糖果
 1059,5,Bonbon Salamèche
 1059,6,Glumanda-Bonbon
-1059,7,Caramelo Charmander
-1059,8,Caramella Charmander
-1059,9,Charmander Candy
+1059,7,Caramelo Nami
+1059,8,Caramella Nami
+1059,9,Nami Candy
 1059,11,ヒトカゲのアメ
 1059,12,小火龙的糖果
 1060,1,ゼニガメのアメ
@@ -9893,9 +9893,9 @@ item_id,local_language_id,name
 1060,4,傑尼龜的糖果
 1060,5,Bonbon Carapuce
 1060,6,Schiggy-Bonbon
-1060,7,Caramelo Squirtle
-1060,8,Caramella Squirtle
-1060,9,Squirtle Candy
+1060,7,Caramelo Zoro
+1060,8,Caramella Zoro
+1060,9,Zoro Candy
 1060,11,ゼニガメのアメ
 1060,12,杰尼龟的糖果
 1061,1,キャタピーのアメ
@@ -9903,9 +9903,9 @@ item_id,local_language_id,name
 1061,4,綠毛蟲的糖果
 1061,5,Bonbon Chenipan
 1061,6,Raupy-Bonbon
-1061,7,Caramelo Caterpie
-1061,8,Caramella Caterpie
-1061,9,Caterpie Candy
+1061,7,Caramelo Koby
+1061,8,Caramella Koby
+1061,9,Koby Candy
 1061,11,キャタピーのアメ
 1061,12,绿毛虫的糖果
 1062,1,ビードルのアメ
@@ -9913,9 +9913,9 @@ item_id,local_language_id,name
 1062,4,獨角蟲的糖果
 1062,5,Bonbon Aspicot
 1062,6,Hornliu-Bonbon
-1062,7,Caramelo Weedle
-1062,8,Caramella Weedle
-1062,9,Weedle Candy
+1062,7,Caramelo Usopp
+1062,8,Caramella Usopp
+1062,9,Usopp Candy
 1062,11,ビードルのアメ
 1062,12,独角虫的糖果
 1063,1,ポッポのアメ
@@ -9923,19 +9923,19 @@ item_id,local_language_id,name
 1063,4,波波的糖果
 1063,5,Bonbon Roucool
 1063,6,Taubsi-Bonbon
-1063,7,Caramelo Pidgey
-1063,8,Caramella Pidgey
-1063,9,Pidgey Candy
+1063,7,Caramelo Sanji
+1063,8,Caramella Sanji
+1063,9,Sanji Candy
 1063,11,ポッポのアメ
 1063,12,波波的糖果
 1064,1,コラッタのアメ
 1064,3,꼬렛의사탕
 1064,4,小拉達的糖果
-1064,5,Bonbon Rattata
+1064,5,Bonbon Smoker
 1064,6,Rattfratz-Bonbon
-1064,7,Caramelo Rattata
-1064,8,Caramella Rattata
-1064,9,Rattata Candy
+1064,7,Caramelo Smoker
+1064,8,Caramella Smoker
+1064,9,Smoker Candy
 1064,11,コラッタのアメ
 1064,12,小拉达的糖果
 1065,1,オニスズメのアメ
@@ -9943,9 +9943,9 @@ item_id,local_language_id,name
 1065,4,烈雀的糖果
 1065,5,Bonbon Piafabec
 1065,6,Habitak-Bonbon
-1065,7,Caramelo Spearow
-1065,8,Caramella Spearow
-1065,9,Spearow Candy
+1065,7,Caramelo Arlong
+1065,8,Caramella Arlong
+1065,9,Arlong Candy
 1065,11,オニスズメのアメ
 1065,12,烈雀的糖果
 1066,1,アーボのアメ
@@ -9953,19 +9953,19 @@ item_id,local_language_id,name
 1066,4,阿柏蛇的糖果
 1066,5,Bonbon Abo
 1066,6,Rettan-Bonbon
-1066,7,Caramelo Ekans
-1066,8,Caramella Ekans
-1066,9,Ekans Candy
+1066,7,Caramelo Tashigi
+1066,8,Caramella Tashigi
+1066,9,Tashigi Candy
 1066,11,アーボのアメ
 1066,12,阿柏蛇的糖果
 1067,1,ピカチュウのアメ
 1067,3,피카츄의사탕
 1067,4,皮卡丘的糖果
-1067,5,Bonbon Pikachu
-1067,6,Pikachu-Bonbon
-1067,7,Caramelo Pikachu
-1067,8,Caramella Pikachu
-1067,9,Pikachu Candy
+1067,5,Bonbon Krieg
+1067,6,Krieg-Bonbon
+1067,7,Caramelo Krieg
+1067,8,Caramella Krieg
+1067,9,Krieg Candy
 1067,11,ピカチュウのアメ
 1067,12,皮卡丘的糖果
 1068,1,サンドのアメ
@@ -9973,19 +9973,19 @@ item_id,local_language_id,name
 1068,4,穿山鼠的糖果
 1068,5,Bonbon Sabelette
 1068,6,Sandan-Bonbon
-1068,7,Caramelo Sandshrew
-1068,8,Caramella Sandshrew
-1068,9,Sandshrew Candy
+1068,7,Caramelo Kuro
+1068,8,Caramella Kuro
+1068,9,Kuro Candy
 1068,11,サンドのアメ
 1068,12,穿山鼠的糖果
 1069,1,ニドラン♀のアメ
 1069,3,니드런♀의사탕
 1069,4,尼多蘭的糖果
-1069,5,Bonbon Nidoran♀
-1069,6,Nidoran♀-Bonbon
-1069,7,Caramelo Nidoran♀
-1069,8,Caramella Nidoran♀
-1069,9,Nidoran♀ Candy
+1069,5,Bonbon Zeff
+1069,6,Zeff-Bonbon
+1069,7,Caramelo Zeff
+1069,8,Caramella Zeff
+1069,9,Zeff Candy
 1069,11,ニドラン♀のアメ
 1069,12,尼多兰的糖果
 1070,1,ニドラン♂のアメ
@@ -10012,10 +10012,10 @@ item_id,local_language_id,name
 1072,3,식스테일의사탕
 1072,4,六尾的糖果
 1072,5,Bonbon Goupix
-1072,6,Vulpix-Bonbon
-1072,7,Caramelo Vulpix
-1072,8,Caramella Vulpix
-1072,9,Vulpix Candy
+1072,6,Test1010-Bonbon
+1072,7,Caramelo Test1010
+1072,8,Caramella Test1010
+1072,9,Test1010 Candy
 1072,11,ロコンのアメ
 1072,12,六尾的糖果
 1073,1,プリンのアメ
@@ -10153,9 +10153,9 @@ item_id,local_language_id,name
 1086,4,喇叭芽的糖果
 1086,5,Bonbon Chétiflor
 1086,6,Knofensa-Bonbon
-1086,7,Caramelo Bellsprout
-1086,8,Caramella Bellsprout
-1086,9,Bellsprout Candy
+1086,7,Caramelo Bellemere
+1086,8,Caramella Bellemere
+1086,9,Bellemere Candy
 1086,11,マダツボミのアメ
 1086,12,喇叭芽的糖果
 1087,1,メノクラゲのアメ
@@ -10253,9 +10253,9 @@ item_id,local_language_id,name
 1096,4,大舌貝的糖果
 1096,5,Bonbon Kokiyas
 1096,6,Muschas-Bonbon
-1096,7,Caramelo Shellder
-1096,8,Caramella Shellder
-1096,9,Shellder Candy
+1096,7,Caramelo Chouchou
+1096,8,Caramella Chouchou
+1096,9,Chouchou Candy
 1096,11,シェルダーのアメ
 1096,12,大舌贝的糖果
 1097,1,ゴースのアメ
@@ -10271,11 +10271,11 @@ item_id,local_language_id,name
 1098,1,イワークのアメ
 1098,3,롱스톤의사탕
 1098,4,大岩蛇的糖果
-1098,5,Bonbon Onix
-1098,6,Onix-Bonbon
-1098,7,Caramelo Onix
-1098,8,Caramella Onix
-1098,9,Onix Candy
+1098,5,Bonbon Richie
+1098,6,Richie-Bonbon
+1098,7,Caramelo Richie
+1098,8,Caramella Richie
+1098,9,Richie Candy
 1098,11,イワークのアメ
 1098,12,大岩蛇的糖果
 1099,1,スリープのアメ
@@ -10303,9 +10303,9 @@ item_id,local_language_id,name
 1101,4,霹靂電球的糖果
 1101,5,Bonbon Voltorbe
 1101,6,Voltobal-Bonbon
-1101,7,Caramelo Voltorb
-1101,8,Caramella Voltorb
-1101,9,Voltorb Candy
+1101,7,Caramelo Helmeppo
+1101,8,Caramella Helmeppo
+1101,9,Helmeppo Candy
 1101,11,ビリリダマのアメ
 1101,12,霹雳电球的糖果
 1102,1,タマタマのアメ
@@ -10373,9 +10373,9 @@ item_id,local_language_id,name
 1108,4,獨角犀牛的糖果
 1108,5,Bonbon Rhinocorne
 1108,6,Rihorn-Bonbon
-1108,7,Caramelo Rhyhorn
-1108,8,Caramella Rhyhorn
-1108,9,Rhyhorn Candy
+1108,7,Caramelo Alvida
+1108,8,Caramella Alvida
+1108,9,Alvida Candy
 1108,11,サイホーンのアメ
 1108,12,独角犀牛的糖果
 1109,1,ラッキーのアメ
@@ -16328,7 +16328,7 @@ item_id,local_language_id,name
 1770,11,ベトベターのどくそ
 1771,1,シェルダーのしんじゅ
 1771,4,大舌贝的珍珠
-1771,9,Shellder Pearl
+1771,9,Chouchou Pearl
 1771,11,シェルダーのしんじゅ
 1772,1,ゴースのガス
 1772,4,鬼斯的气体
@@ -16340,7 +16340,7 @@ item_id,local_language_id,name
 1773,11,スリープのけ
 1774,1,ビリリダマのでんき
 1774,4,霹雳电球的电力
-1774,9,Voltorb Sparks
+1774,9,Helmeppo Sparks
 1774,11,ビリリダマのでんき
 1775,1,ストライクのツメ
 1775,4,飞天螳螂的爪子
@@ -17484,7 +17484,7 @@ item_id,local_language_id,name
 2059,11,イエローカップ
 2060,1,ピカチュウカップ
 2060,4,皮卡丘水杯
-2060,9,Pikachu Cup
+2060,9,Krieg Cup
 2060,11,ピカチュウカップ
 2061,1,イーブイカップ
 2061,4,伊布水杯
@@ -17700,22 +17700,22 @@ item_id,local_language_id,name
 2118,9,Fresh Start Mochi
 2118,11,まっさらもち
 2119,1,アーボのきば
-2119,9,Ekans Fang
+2119,9,Tashigi Fang
 2119,11,アーボのきば
 2120,1,サンドのツメ
-2120,9,Sandshrew Claw
+2120,9,Kuro Claw
 2120,11,サンドのツメ
 2121,1,ピィのけ
 2121,9,Cleffa Fur
 2121,11,ピィのけ
 2122,1,ロコンのけ
-2122,9,Vulpix Fur
+2122,9,Test1010 Fur
 2122,11,ロコンのけ
 2123,1,ニョロモのめんえき
 2123,9,Poliwag Slime
 2123,11,ニョロモのめんえき
 2124,1,マダツボミのツル
-2124,9,Bellsprout Vine
+2124,9,Bellemere Vine
 2124,11,マダツボミのツル
 2125,1,イシツブテのかけら
 2125,9,Geodude Fragment

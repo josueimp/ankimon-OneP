@@ -24,7 +24,7 @@ def special_pokemon_names_for_min_level(name):
         return "flabebe"
     elif name == "sirfetch'd":
         return "sirfetchd"
-    elif name == "farfetch'd":
+    elif name == "cabaji":
         return "farfetchd"
     elif name == "porygon-z":
         return "porygonz"
@@ -127,10 +127,8 @@ def search_pokedex_by_id(pokemon_id):
     with open(str(pokedex_path), "r", encoding="utf-8") as json_file:
         pokedex_data = json.load(json_file)
         for entry_name, attributes in pokedex_data.items():
-            if "num" not in attributes:
-                continue   #skip entries without num attribute in pokedex (most pokemon variants for new gens)        
             if attributes["num"] == pokemon_id:
-                return entry_name            
+                return entry_name
     return "Pokémon not found"
 
 

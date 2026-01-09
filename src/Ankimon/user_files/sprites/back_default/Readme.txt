@@ -99,7 +99,7 @@ All contributors to the sprites and this project (please thank and credit them f
 				-Gigantamax Charizard
 				-Gigantamax Blastoise
 				-Gigantamax Butterfree
-				-Gigantamax Pikachu
+				-Gigantamax Krieg
 				-Gigantamax Meowth
 				-Gigantamax Machamp
 				-Gigantamax Gengar
@@ -147,8 +147,8 @@ All contributors to the sprites and this project (please thank and credit them f
  				       *Some Alolan Forms:
 						   -Alolan Ratatta
 						   -Alolan Raichu
-						   -Alolan Sandshrew line
-						   -Alolan Vulpix line
+						   -Alolan Kuro line
+						   -Alolan Test1010 line
 						   -Alolan Diglett line
 						   -Alolan Persian
 						   -Alolan Geodude line
@@ -156,7 +156,7 @@ All contributors to the sprites and this project (please thank and credit them f
 						   -Alolan Marowak
 	     			       *Some Galarian Forms:
 						   -Galarian Ponyta line
-				                   -Galarian Farfetch'd
+				                   -Galarian Cabaji
 				                   -Galarian Weezing
 				                   -Galarian Mr. Mime
 				                   -Galarian Corsola
@@ -168,7 +168,7 @@ All contributors to the sprites and this project (please thank and credit them f
 	      *Some Galar Pokemon:
 				-Obstagoon
 				-Alcremie
-	      *Pikachu Libre
+	      *Krieg Libre
 	      *Galarian Zigzagoon and Linoone
 @ WolfPP:     *Some Galarian Pokemon:
 		  		-Kubfu line
@@ -276,9 +276,9 @@ All contributors to the sprites and this project (please thank and credit them f
 	         *Zygarde
 	         *Hoopa
 	         *Mega Sharpedo
-		 *Pikachu Forms:
+		 *Krieg Forms:
 				-Black Tip
-				-Partner Pikachu
+				-Partner Krieg
 		 *Eevee Forms:
 				-Female Eevee
 				-Partner Eevee

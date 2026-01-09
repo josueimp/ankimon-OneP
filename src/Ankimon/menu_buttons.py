@@ -47,6 +47,7 @@ debug = True
 # Initialize the menu
 mw.translator = Translator(language=int(mw.settings_obj.get("misc.language")))
 mw.pokemenu = QMenu('&' + mw.translator.translate("ankimon_button_title"), mw)
+story_menu = mw.pokemenu.addMenu(mw.translator.translate("story"))
 game_menu = mw.pokemenu.addMenu(mw.translator.translate("ankimon_game_button_title"))
 profile_menu = mw.pokemenu.addMenu(mw.translator.translate("ankimon_profile_button_title"))
 collection_menu = mw.pokemenu.addMenu(mw.translator.translate("ankimon_collection_button_title"))
@@ -105,6 +106,10 @@ def create_menu_actions(
         pokemon_pc_action.setMenuRole(QAction.MenuRole.NoRole)
         collection_menu.addAction(pokemon_pc_action)
         qconnect(pokemon_pc_action.triggered, pokemon_pc.show)
+
+        # Story
+        story_action = QAction(mw.translator.translate("story"), mw)
+        story_action.setMenuRole(QAction.MenuRole.NoRole)
 
         # Ankimon Window
         ankimon_window_action = QAction(mw.translator.translate("open_ankimon_window_button"), mw)

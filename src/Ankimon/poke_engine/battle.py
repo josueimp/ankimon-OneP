@@ -714,7 +714,7 @@ class Pokemon:
 
     @classmethod
     def get_dummy(cls):
-        p = Pokemon('pikachu', 100)
+        p = Pokemon('krieg', 100)
         p.hp = 0
         p.name = ''
         p.ability = None

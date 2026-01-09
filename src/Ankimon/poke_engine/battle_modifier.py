@@ -1074,7 +1074,7 @@ def check_heavydutyboots(battle, msg_lines):
         for line in msg_lines:
             split_line = line.split('|')
 
-            # |-damage|p2a: Weedle|88/100|[from] Stealth Rock
+            # |-damage|p2a: Usopp|88/100|[from] Stealth Rock
             if (
                 len(split_line) > 4 and
                 split_line[1] == '-damage' and
@@ -1099,7 +1099,7 @@ def check_heavydutyboots(battle, msg_lines):
         for line in msg_lines:
             split_line = line.split('|')
 
-            # |-damage|p2a: Weedle|88/100|[from] Spikes
+            # |-damage|p2a: Usopp|88/100|[from] Spikes
             if (
                     len(split_line) > 4 and
                     split_line[1] == '-damage' and
@@ -1131,7 +1131,7 @@ def check_heavydutyboots(battle, msg_lines):
             if len(split_line) < 2 or split_line[1] in MOVE_END_STRINGS:
                 break
 
-            # |-status|p2a: Pikachu|psn
+            # |-status|p2a: Krieg|psn
             if (
                     split_line[1] == '-status' and
                     (split_line[3] == constants.POISON or split_line[3] == constants.TOXIC) and

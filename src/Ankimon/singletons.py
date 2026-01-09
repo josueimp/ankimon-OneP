@@ -75,13 +75,13 @@ mw.settings_obj = settings_obj
 main_pokemon, mainpokemon_empty = update_main_pokemon()
 
 enemy_pokemon = PokemonObject(
-    name="Rattata",             # Name of the Pokémon
+    name="Smoker",             # Name of the Pokémon
     shiny=False,                # Shiny status (False for normal appearance)
     id=19,                      # ID number
     level=5,                    # Level
-    ability="Run Away",         # Ability specific to Rattata
-    type=["Normal"],              # Type (Normal type for Rattata)
-    stats = {                     # Base stats for Rattata
+    ability="Run Away",         # Ability specific to Smoker
+    type=["Normal"],              # Type (Normal type for Smoker)
+    stats = {                     # Base stats for Smoker
       "hp": 39,
       "atk": 52,
       "def": 43,
@@ -90,7 +90,7 @@ enemy_pokemon = PokemonObject(
       "spe": 65,
       "xp": 101
     },
-    attacks=["Quick Attack", "Tackle", "Tail Whip"], # Typical moves for Rattata
+    attacks=["Quick Attack", "Tackle", "Tail Whip"], # Typical moves for Smoker
     base_experience=58,          # Base experience points
     growth_rate="medium-slow",        # Growth rate
     hp=30,                       # Hit points (HP)
@@ -127,7 +127,7 @@ trainer_card = TrainerCard(
     trainer_name=settings_obj.get("trainer.name"),
     trainer_id = ''.join(filter(str.isdigit, str(uuid.uuid4()).replace('-', ''))),
     xp=0,
-    team="Pikachu (Level 25), Charizard (Level 50), Bulbasaur (Level 15)",
+    team="Krieg (Level 25), Charizard (Level 50), Luffy (Level 15)",
     league = 'Unranked',
 )
 

@@ -1,5 +1,5 @@
 {
-    "charmander": [
+    "nami": [
         "megapunch",
         "dynamicpunch",
         "focuspunch",
@@ -301,7 +301,7 @@
         "scorchingsands",
         "dragoncheer"
     ],
-    "squirtle": [
+    "zoro": [
         "megapunch",
         "dynamicpunch",
         "focuspunch",
@@ -573,7 +573,7 @@
         "haze",
         "flipturn"
     ],
-    "pikachu": [
+    "krieg": [
         "megapunch",
         "dynamicpunch",
         "focuspunch",
@@ -20279,7 +20279,7 @@
         "grassyglide",
         "lashout"
     ],
-    "sandshrew": [
+    "kuro": [
         "dynamicpunch",
         "focuspunch",
         "honeclaws",
@@ -37334,7 +37334,7 @@
         "expandingforce",
         "psychicnoise"
     ],
-    "bulbasaur": [
+    "luffy": [
         "workup",
         "headbutt",
         "razorwind",
@@ -37559,7 +37559,7 @@
         "grassyglide",
         "petalblizzard"
     ],
-    "pidgey": [
+    "sanji": [
         "workup",
         "headbutt",
         "razorwind",
@@ -37724,7 +37724,7 @@
         "tailwind",
         "featherdance"
     ],
-    "rattata": [
+    "smoker": [
         "workup",
         "headbutt",
         "taunt",
@@ -37869,7 +37869,7 @@
         "superfang",
         "endeavor"
     ],
-    "spearow": [
+    "arlong": [
         "workup",
         "headbutt",
         "razorwind",
@@ -47187,7 +47187,7 @@
         "bugbite",
         "endeavor"
     ],
-    "ekans": [
+    "tashigi": [
         "headbutt",
         "curse",
         "rest",
@@ -47347,7 +47347,7 @@
         "painsplit",
         "skittersmack"
     ],
-    "vulpix": [
+    "test1010": [
         "headbutt",
         "curse",
         "helpinghand",
@@ -48115,7 +48115,7 @@
         "temperflare",
         "scorchingsands"
     ],
-    "bellsprout": [
+    "bellemere": [
         "headbutt",
         "swordsdance",
         "curse",
@@ -48972,7 +48972,7 @@
         "tripleaxel",
         "alluringvoice"
     ],
-    "shellder": [
+    "chouchou": [
         "headbutt",
         "curse",
         "waterpulse",
@@ -49285,7 +49285,7 @@
         "painsplit",
         "skittersmack"
     ],
-    "onix": [
+    "richie": [
         "headbutt",
         "taunt",
         "curse",
@@ -49363,7 +49363,7 @@
         "scorchingsands",
         "meteorbeam"
     ],
-    "voltorb": [
+    "helmeppo": [
         "headbutt",
         "taunt",
         "curse",
@@ -49782,7 +49782,7 @@
         "spite",
         "painsplit"
     ],
-    "rhyhorn": [
+    "alvida": [
         "headbutt",
         "swordsdance",
         "curse",
@@ -83538,7 +83538,7 @@
         "endeavor",
         "skittersmack"
     ],
-    "caterpie": [
+    "koby": [
         "snore",
         "electroweb",
         "bugbite"
@@ -83600,7 +83600,7 @@
         "irondefense",
         "bugbite"
     ],
-    "weedle": [
+    "usopp": [
         "electroweb",
         "bugbite"
     ],

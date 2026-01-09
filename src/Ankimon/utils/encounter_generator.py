@@ -91,7 +91,7 @@ def special_pokemon_names_for_min_level(name):
         return "flabebe"
     elif name == "sirfetch'd":
         return "sirfetchd"
-    elif name == "farfetch'd":
+    elif name == "cabaji":
         return "farfetchd"
     elif name == "porygon-z":
         return "porygonz"
